@@ -1,0 +1,9 @@
+reference,nom,categorie,prix,stock,description
+PC001,PC Gamer Pro,Ordinateurs,1299.99,8,"Processeur Intel Core i7-13700K, RAM 32Go DDR5, SSD NVMe 1Tb, RTX 4070. Idéal pour le gaming et la création de contenu."
+PC002,Laptop UltraBook,Ordinateurs,899.99,15,"Ultrabook léger et puissant, idéal pour le nomadisme numérique."
+CAM001,Caméra 4K Pro,Photographie,649.99,5,"Caméra professionnelle 4K avec capteur plein format."
+MON001,Écran 27 144Hz,Moniteurs,349.99,12,"Écran gaming 27 pouces, 144Hz, temps de réponse 1ms."
+PER001,Souris Gaming RGB,Périphériques,59.99,2,"Souris gaming 16000 DPI, RGB personnalisable."
+PER002,Clavier Mécanique,Périphériques,89.99,3,"Clavier mécanique RGB, switches bleus."
+PER003,Webcam Full HD,Périphériques,79.99,1,"Webcam 1080p avec microphone intégré."
+AUD001,Casque Audio Pro,Audio,129.99,0,"Casque audio surround 7.1, micro antibruit."
